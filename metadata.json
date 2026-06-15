@@ -1,6 +1,0 @@
-{
-  "name": "Water Level Data Analyzer",
-  "description": "Comprehensive browser-based groundwater data analysis tool featuring decadal fluctuations, seasonal distributions, rigorous validation, spatial IDW maps, and customizable charts.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
